@@ -11,6 +11,7 @@ This repository is the official code of our survey paper:
 In our literature review, we collect, classify, and discuss recent graph-based
 fraud detection papers. Below is the detailed classification and paper with code (if available).
 
+
 ## Conference & Journal Article
 This is a curated list of research papers focusing on financial fraud detection using Graph Neural Networks (GNNs) from various conferences and Journals:
 - **Artificial Intelligence**
@@ -37,8 +38,159 @@ This is a curated list of research papers focusing on financial fraud detection 
 
 This list aims to provide a comprehensive overview of research papers that utilize Graph Neural Networks for financial fraud detection across various academic conferences and disciplines.
 
+
+## Content
+- **[LLM-enhanced Graph-based Fraud Detection](#llm-enhanced-graph-based-fraud-detection)**
+  - [2026](#2026)
+  - [2025](#2025)
+- **[Graph-based Fraud Detection](#graph-based-fraud-detection)**
+  - [2026](#2026-1)
+  - [2025](#2025-1)
+  - [2024](#2024)
+  - [2023](#2023)
+  - [2022](#2022)
+  - [2021](#2021)
+  - [2020](#2020)
+  - [2019](#2019)
+  - [2018](#2018)
+  - [2017](#2017)
+
+
+## LLM-enhanced Graph-based Fraud Detection
+
+### 2026
+
+- **DGP: A Dual-Granularity Prompting Framework for Fraud Detection with Graph-Enhanced LLMs (AAAI)** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38541) [[Code]](https://github.com/Xtra-Computing/DGP)
+
+  *Yuan Li, Jun Hu, Bryan Hooi, Bingsheng He, Cheng Chen*
+
+- **Targeting Borderline Fraudsters: Multi-View Hypergraph Fraud Detection with LLM-Guided Contrastive Learning (AAAI)** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38588)
+
+  *Rui Ou, Kun Zhu, Nana Zhang, Jiangtong Li, Chaochao Chen, Yuhua Xu, Changjun Jiang*
+
+
+### 2025
+
+- **FLAG: Fraud Detection with LLM-enhanced Graph Neural Network (KDD)** [[Paper]](https://dl.acm.org/doi/10.1145/3711896.3737220)
+
+  *Chengdong Yang, Hongrui Liu, Daixin Wang, Zhiqiang Zhang, Cheng Yang, Chuan Shi*
+
+
+## Graph-based Fraud Detection
+
+### 2026
+
+- **Defending Attacks on Anti-Fraud Model With Generative Graph Representations (TKDE)** [[Paper]](https://ieeexplore.ieee.org/document/11278752)
+
+  *Jiasheng Wu, Xincheng Wang, Jie Yang, Dawei Cheng, Guang Yang, Bo Wang*
+
+
+### 2025
+
+- **Global Attribute-Association Pattern Aggregation for Graph Fraud Detection (AAAI)** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33264) [[Code]](https://github.com/AtwoodDuan/GAAP)
+
+  *Mingjiang Duan, Da He, Tongya Zheng, Lingxiang Jia, Mingli Song, Xinyu Wang, Zunlei Feng*
+
+- **Context-aware Graph Neural Network for Graph-based Fraud Detection with Extremely Limited Labels (AAAI)** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33319)
+
+  *Pengbo Li, Hang Yu, Xiangfeng Luo*
+
+- **A Label-free Heterophily-guided Approach for Unsupervised Graph Fraud Detection (AAAI)** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33356)
+
+  *Junjun Pan, Yixin Liu, Xin Zheng, Yizhen Zheng, Alan Wee-Chung Liew, Fuyi Li, Shirui Pan*
+
+- **Dynamic Neighborhood Modeling via Node-Subgraph Contrastive Learning for Graph-Based Fraud Detection (AAAI)** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33431)
+
+  *Zhizhi Yu, Chundong Liang, Xinglong Chang, Dongxiao He, Di Jin, Jianguo Wei*
+
+- **Unveiling the Threat of Fraud Gangs to Graph Neural Networks: Multi-Target Graph Injection Attacks Against GNN-Based Fraud Detectors (AAAI)** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33760)
+
+  *Jinhyeok Choi, Heehyeon Kim, Joyce Jiyoung Whang*
+
+- **Mitigating Message Imbalance in Fraud Detection with Dual-View Graph Representation Learning (IJCAI)** [[Paper]](https://www.ijcai.org/proceedings/2025/365)
+
+  *Yudan Song, Yuecen Wei, Yuhang Lu, Qingyun Sun, Minglai Shao, Li-e Wang, Chunming Hu, Xianxian Li, Xingcheng Fu*
+
+- **MutationGuard: A Graph and Temporal-Spatial Neural Method for Detecting Mutation Telecommunication Fraud (IJCAI)** [[Paper]](https://www.ijcai.org/proceedings/2025/1061)
+
+  *Haitao Bai, Pinghui Wang, Ruofei Zhang, Ziyang Zhou, Juxiang Zeng, Yulou Su, Li Xing, Zhou Su, Chen Zhang, Lizhen Cui, Jun Hao, Wei Wang*
+
+- **Temporal Insights for Group-Based Fraud Detection on e-Commerce Platforms (TKDE)** [[Paper]](https://ieeexplore.ieee.org/document/10740556)
+
+  *Jianke Yu, Hanchen Wang, Xiaoyang Wang, ZhaoLi, LuQin, Wenjie Zhang, Jian Liao, Ying Zhang, Bailin Yang*
+
+- **Nowhere to H^2IDE: Fraud Detection From Multi-Relation Graphs via Disentangled Homophily and Heterophily Identification (TKDE)** [[Paper]](https://ieeexplore.ieee.org/document/10816539)
+
+  *Chao Fu, Guannan Liu, KunYuan, Junjie Wu*
+
+- **Mitigating the Tail Effect in Fraud Detection by Community Enhanced Multi-Relation Graph Neural Networks (TKDE)** [[Paper]](https://ieeexplore.ieee.org/document/10843290)
+
+  *Li Han, Longxun Wang, Ziyang Cheng, Bo Wang, Guang Yang, Dawei Cheng, Xuemin Lin*
+
+- **Enhancing Attribute-Driven Fraud Detection With Risk-Aware Graph Representation (TKDE)** [[Paper]](https://ieeexplore.ieee.org/document/10896835)
+
+  *Sheng Xiang, Guibin Zhang, Dawei Cheng, Ying Zhang*
+
+- **Grad: Guided Relation Diffusion Generation for Graph Augmentation in Graph Fraud Detection (WWW)** [[Paper]](https://dl.acm.org/doi/10.1145/3696410.3714520)
+
+  *Jie Yang, Rui Zhang, Ziyang Cheng, Dawei Cheng, Guang Yang, Bo Wang*
+
+- **Innovative Graph-Based Analysis to Counter VAT Carousel and Credit Card Frauds (ICDM)** [[Paper]](https://ieeexplore.ieee.org/document/11416093)
+
+  *Rafał Kozik, Piotr Gocał, Michał Choraś*
+
+- **Neighbor-enhanced Graph Pre-training and Prompt Learning Framework for Fraud Detection (CIKM)** [[Paper]](https://dl.acm.org/doi/10.1145/3746252.3761588)
+
+  *Ziyang Cheng, Jie Yang, Yixin Song, Dawei Cheng, Guang Yang, Bo Wang*
+
+- **MultiScale Spectral GNN for Fraud Detection (ASONAM)** [[Paper]](https://link.springer.com/chapter/10.1007/978-3-032-13821-7_15)
+
+  *Melike Yildiz Aktas, Mustafa Coskun, Chang-Tien Lu*
+
+
 ### 2024
-- **Parallel Graph Learning with Temporal Stamp Encoding for Fraudulent Transactions Detections (IEEE T-BD)** [Paper](https://ieeexplore.ieee.org/abstract/document/10753618/)
+
+- **Revisiting Graph-Based Fraud Detection in Sight of Heterophily and Spectrum (AAAI)** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28773) [[Code]](https://github.com/Sunxkissed/SEC-GFD)
+
+  *Fan Xu, Nan Wang, Hao Wu, Xuezhi Wen, Xibin Zhao, Hai Wan*
+
+- **Barely Supervised Learning for Graph-Based Fraud Detection (AAAI)** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29593)
+
+  *Hang Yu, Zhengyang Liu, Xiangfeng Luo*
+
+- **SEFraud: Graph-based Self-Explainable Fraud Detection via Interpretative Mask Learning (KDD)** [[Paper]](https://dl.acm.org/doi/10.1145/3637528.3671534)
+
+  *Kaidi Li, Tianmeng Yang, Min Zhou, Jiahao Meng, Shendi Wang, Yihui Wu, Boshuai Tan, Hu Song, Lujia Pan, Fan Yu, Zhenli Sheng, Yunhai Tong*
+
+- **Cross-Regional Fraud Detection via Continual Learning With Knowledge Transfer (TKDE)** [[Paper]](https://ieeexplore.ieee.org/document/10654781)
+
+  *Yujie Li, XinYang, QiangGao, Hao Wang, Junbo Zhang, TianruiLi*
+
+- **Spade+: A Generic Real-Time Fraud Detection Framework on Dynamic Graphs (TKDE)** [[Paper]](https://ieeexplore.ieee.org/document/10510636)
+
+  *Jiaxin Jiang, Yuhang Chen, Bingsheng He, Min Chen, Jia Chen*
+
+- **Burstiness-aware Bipartite Graph Neural Networks for Fraudulent User Detection on Rating Platforms (WWW)** [[Paper]](https://dl.acm.org/doi/10.1145/3589335.3651475)
+
+  *Yen-Wen Lu, Yu-Che Tsai, Cheng-Te Li*
+
+- **TROPICAL: Transformer-Based Hypergraph Learning for Camouflaged Fraudster Detection (ICDM)** [[Paper]](https://ieeexplore.ieee.org/document/10884140) [[Code]](https://github.comNenusHaghighi/TROPICAL)
+
+  *Venus Haghighi, Behnaz Soltani, Nasrin Shabani, Jia Wu, Yang Zhang, Lina Yao, Quan Z. Sheng, Jian Yang*
+
+- **Collaborative Fraud Detection on Large Scale Graph Using Secure Multi-Party Computation (CIKM)** [[Paper]](https://dl.acm.org/doi/10.1145/3627673.3679863)
+
+  *Xin Liu, Xiaoyu Fan, Rong Ma, Kun Chen, Yi Li, Guosai Wang, Wei Xu*
+
+- **LEX-GNN: Label-Exploring Graph Neural Network for Accurate Fraud Detection (CIKM)** [[Paper]](https://dl.acm.org/doi/10.1145/3627673.3679956) [[Code]](https://github.com/wdhyun/LEX-GNN)
+
+  *Woochang Hyun, Insoo Lee, Bongwon Suh*
+
+- **Graph-theoretical Approach to Enhance Accuracy of Financial Fraud Detection Using Synthetic Tabular Data Generation (CIKM)** [[Paper]](https://dl.acm.org/doi/10.1145/3627673.3680267)
+
+  *Dae-Young Park*
+
+- **Parallel Graph Learning with Temporal Stamp Encoding for Fraudulent Transactions Detections (IEEE T-BD)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10753618/)
 
   *Jiacheng Ma, Sheng Xiang, Qiang Li, Liangyu Yuan, Dawei Cheng, Changjun Jiang*
 
@@ -83,6 +235,7 @@ This list aims to provide a comprehensive overview of research papers that utili
 - **DiG-In-GNN: Discriminative Feature Guided GNN-Based Fraud Detector against Inconsistencies in Multi-Relation Fraud Graph (AAAI)** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28785) [[Code]](https://github.com/GraphBerry/DiG-In-GNN)
 
   *Jinghui Zhang, Zhengjia Xu, Dingyang Lv, Zhan Shi, Dian Shen, Jiahui Jin, Fang Dong*
+
 
 ### 2023
 
@@ -134,6 +287,7 @@ This list aims to provide a comprehensive overview of research papers that utili
 
 
 ###  2022
+
 - **Explainable Graph-based Fraud Detection via Neural Meta-graph Search (CIKM)** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557598)
   
   *Zidi Qin, Yang Liu, Qing He, Xiang Ao*
@@ -177,6 +331,7 @@ This list aims to provide a comprehensive overview of research papers that utili
 
   ![](https://img.shields.io/badge/Heterogeneity%20Detection-A52A2A) ![](https://img.shields.io/badge/Homogeneity%20Detection-A52A2A) 
 
+
 ### 2021
 
 - **CaT-GNN: Enhancing Credit Card Fraud Detection with Causal Time Graph Neural Networks (TKDE)** [[Paper]](https://arxiv.dosf.top/abs/2402.14708)
@@ -211,6 +366,7 @@ This list aims to provide a comprehensive overview of research papers that utili
 
   *Y Liu, S Pan, YG Wang, F Xiong, L Wang, Q Chen, VCS Lee*
 
+
 ### 2020
 
 - **Graph Neural Network for Fraud Detection via Spatial-Temporal Attention (TKDE)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9204584) [[Code]](https://github.com/finint/antifraud)
@@ -241,6 +397,7 @@ This list aims to provide a comprehensive overview of research papers that utili
 
   *Xiangfeng Li, Shenghua Liu, Zifeng Li, Xiaotian Han, Chuan Shi , Bryan Hooi, He Huang, Xueqi Cheng*
 
+
 ### 2019
 
 - **Uncovering insurance fraud conspiracy with network learning (SIGIR)** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3331184.3331372)
@@ -259,6 +416,7 @@ This list aims to provide a comprehensive overview of research papers that utili
 
   *Lv, Le and Cheng, Jianbo and Peng, Nanbo and Fan, Min and Zhao, Dongbin, Zhang, Jianhong*
 
+
 ### 2018
 
 - **Scalable Graph Learning for Anti-Money Laundering: A First Look (ArXiv)** [[Paper]](https://www.semanticscholar.org/paper/Scalable-Graph-Learning-for-Anti-Money-Laundering%3A-Weber-Chen/435a772dc696de13a185e33e80dd7fe71b25dcf0)
@@ -268,11 +426,13 @@ This list aims to provide a comprehensive overview of research papers that utili
 
   *Ziqi Liu, Chaochao Chen, Xinxing Yang, Jun Zhou, Xiaolong Li, and Le Song*
 
+
 ### 2017
 
 - **Graph Mining assisted Semi-supervised Learning for Fraudulent Cash-out Detection (KDD)** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3110025.3110099)
   
   *Yuan Li, Yiheng Sun, and Noshir Contractor*
+
 
 ### Related Topics
 
@@ -284,6 +444,7 @@ For related collections on graph-based methods in other domains, please refer to
 - [Monte Carlo Tree Search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
 - [Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
 
+
 ## Citing
 If you find this literature review is useful for your research, please consider citing the following papers:
     
@@ -294,7 +455,6 @@ If you find this literature review is useful for your research, please consider 
         journal={arXiv preprint arXiv:2411.05815},
         year={2024}
     }
-
 
 
 ## All Thanks to Our Contributors :
