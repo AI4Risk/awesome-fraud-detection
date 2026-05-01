@@ -1,4 +1,4 @@
-# Awesome Graph-based Fraud Detection Papers and Codes
+# Awesome Fraud Detection Papers and Codes
 The Repository of Awesome Graph-based Financial Fraud Detection Papers and Codes. 
 This repository is the official code of our survey paper:
 
