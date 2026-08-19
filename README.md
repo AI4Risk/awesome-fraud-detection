@@ -1,5 +1,5 @@
 # Awesome Fraud Detection Papers and Codes
-The Repository of Awesome Graph-based Financial Fraud Detection Papers and Codes. 
+The Repository of Awesome Financial Fraud Detection Papers and Codes. 
 This repository is the official sources of our survey papers:
 
 - **Graph Neural Networks for Financial Fraud Detection: A Review (Frontiers of Computer Science 2025)** [[Paper]](https://link.springer.com/article/10.1007/s11704-024-40474-y) [[Cite]](https://github.com/AI4Risk/awesome-fraud-detection#citing)
@@ -39,14 +39,16 @@ This list aims to provide a comprehensive overview of research papers that utili
 
 
 ## Content
-- **[LLM-enhanced Graph-based Fraud Detection](#llm-enhanced-graph-based-fraud-detection)**
+- **[LLM-based Fraud Detection](#llm-based-fraud-detection)**
   - [2026](#2026)
   - [2025](#2025)
+  - [2024](#2024)
+  - [2023](#2023)
 - **[Graph-based Fraud Detection](#graph-based-fraud-detection)**
   - [2026](#2026-1)
   - [2025](#2025-1)
-  - [2024](#2024)
-  - [2023](#2023)
+  - [2024](#2024-1)
+  - [2023](#2023-1)
   - [2022](#2022)
   - [2021](#2021)
   - [2020](#2020)
@@ -55,24 +57,142 @@ This list aims to provide a comprehensive overview of research papers that utili
   - [2017](#2017)
 
 
-## LLM-enhanced Graph-based Fraud Detection
+## LLM-based Fraud Detection
 
 ### 2026
 
-- **DGP: A Dual-Granularity Prompting Framework for Fraud Detection with Graph-Enhanced LLMs (AAAI)** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38541) [[Code]](https://github.com/Xtra-Computing/DGP)
+- **DGP: a dual-granularity prompting framework for fraud detection with graph-enhanced LLMs**<br>
+  Li, Yuan and Hu, Jun and Hooi, Bryan and He, Bingsheng and Chen, Cheng.<br>
+  AAAI 2026.<br>
+  [Paper](https://dl.acm.org/doi/10.1609/aaai.v40i18.38541)
 
-  *Yuan Li, Jun Hu, Bryan Hooi, Bingsheng He, Cheng Chen*
+- **Targeting Borderline Fraudsters: Multi-View Hypergraph Fraud Detection with LLM-Guided Contrastive Learning**<br>
+  Ou, R., Zhu, K., Zhang, N., Li, J., Chen, C., Xu, Y., & Jiang, C.<br>
+  AAAI 2026.<br>
+  [Paper](https://doi.org/10.1609/aaai.v40i18.38588)  
 
-- **Targeting Borderline Fraudsters: Multi-View Hypergraph Fraud Detection with LLM-Guided Contrastive Learning (AAAI)** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38588)
+- **ICAD-LLM: One-for-All Anomaly Detection via In-Context Learning with Large Language Models**<br>
+  Wu, Zhongyuan and Wang, Jingyuan and Cheng, Zexuan and Zhou, Yilong and Wang, Weizhi and Pu, Juhua and Li, Chao and Ma, Changqing.<br>
+  AAAI 2026.<br>
+  [Paper](https://arxiv.org/pdf/2512.01672)
 
-  *Rui Ou, Kun Zhu, Nana Zhang, Jiangtong Li, Chaochao Chen, Yuhua Xu, Changjun Jiang*
+- **Understanding Structured Financial Data with LLMs: A Case Study on Fraud Detection**<br>
+  Xuwei Tan, Yao Ma, Xueru Zhang.<br>
+  ACL 2026.<br>
+  [Paper](https://arxiv.org/pdf/2602.14492)
 
+- **LLM as an Algorithmist: Enhancing Anomaly Detectors via Programmatic Synthesis**<br>
+  Hangting Ye, Jinmeng Li, He Zhao, Mingchen Zhuge, Dandan Guo, Yi Chang, Hongyuan Zha.<br>
+  ICLR 2026.<br>
+  [Paper](https://openreview.net/pdf?id=5rV8ML7Q3r)
 
-### 2025
+- **TREASURE: A Transformer-Based Foundation Model for High-Volume Transaction Understanding**<br>
+  Yeh, Chin-Chia Michael and Singh Saini, Uday and Dai, Xin and Fan, Xiran and Jain, Shubham and Fan, Yujie and Sun, Jiarui and Wang, Junpeng and Pan, Menghai and Dou, Yingtong and Chen, Yuzhong and Rakesh, Vineeth and Wang, Liang and Zheng, Yan and Das, Mahashweta.<br>
+  KDD 2026.<br>
+  [Paper](https://dl.acm.org/doi/epdf/10.1145/3770854.3783942)
 
-- **FLAG: Fraud Detection with LLM-enhanced Graph Neural Network (KDD)** [[Paper]](https://dl.acm.org/doi/10.1145/3711896.3737220)
+- **TransactionGPT: Toward Foundational Transaction Modeling**<br>
+  Yingtong Dou, Zhimeng Jiang, Tianyi Zhang, Mingzhi Hu, Zhichao Xu, Shubham Jain, Uday Singh Saini, Xiran Fan, Jiarui Sun, Menghai Pan, Junpeng Wang, Xin Dai, Liang Wang, Chin-Chia Michael Yeh, Yujie Fan, Yan Zheng, Vineeth Rakesh, Huiyuan Chen, Guanchu Wang, Mangesh Bendre, Zhongfang Zhuang, Xiaoting Li, Prince Aboagye, Vivian Lai, Minghua Xu, Hao Yang, Yiwei Cai, Mahashweta Das, Yuzhong Chen.<br>
+  KDD 2026.<br>
+  [Paper](https://dl.acm.org/doi/10.1145/3770855.3818496)
 
-  *Chengdong Yang, Hongrui Liu, Daixin Wang, Zhiqiang Zhang, Cheng Yang, Chuan Shi*
+- **Think-like-LSTM: Memory-Augmented Large Language Models via Dynamic Fine-Tuning for Financial Risk Assessment**<br>
+  KDD 2026.<br>
+  [Paper](https://dl.acm.org/doi/10.1145/3770855.3818491)
+
+- **SHERLOCK: Towards Dynamic Knowledge Adaptation in LLM-enhanced E-commerce Risk Management**<br>
+  Nan Lu, Yurong Hu, Jiaquan Fang, Yan Liu, Rui Dong, Yiming Wang, Rui Lin, Shaoyi Xu.<br>
+  KDD 2026.<br>
+  [Paper](https://dl.acm.org/doi/10.1145/3770855.3818480)
+
+- **FRiskGPT: A Generative Foundation Model for Financial Risk Detection**<br>
+  Zhang, Zhongjian and Zhang, Mengmei and Xu, Dehua and Shi, Rongjun and Liu, Jianfeng and Meng, Fuli and Xu, Huajian and Wang, Xiao and Wang, Ruijia and Chen, Junze and Tang, Minwei and Shi, Chuan.<br>
+  WWW 2026.<br>
+  [Paper](https://dl.acm.org/doi/epdf/10.1145/3774904.3792832)
+
+- **LLM-Enhanced Self-Evolving Reinforcement Learning for Multi-Step E-Commerce Payment Fraud Risk Detection**<br>
+  Bo Qu, Zhurong Wang, Daisuke Yagi, Zach Xu, Yang Zhao, Yinan Shan, Frank Zahradnik.<br>
+  ACL 2025.<br>
+  [Paper](https://aclanthology.org/2025.acl-industry.9.pdf)
+
+- **SSH-T3 : A Hierarchical Pre-training Framework for Multi-Scenario Financial Risk Assessment**<br>
+  Gu, Zehao and Tang, Yateng and Xu, Jiarong and Siwei, Zhang and Zheng, Xuehao and Chen, Xi and Xiong, Yun.<br>
+  CIKM 2025.<br>
+  [Paper](https://dl.acm.org/doi/epdf/10.1145/3746252.3761504)
+
+- **OCR-APT: Reconstructing APT Stories from Audit Logs using Subgraph Anomaly Detection and LLMs**<br>
+  Aly, Ahmed and Mansour, Essam and Youssef, Amr.<br>
+  CCS 2025.<br>
+  [Paper](https://dl.acm.org/doi/epdf/10.1145/3719027.3765219)
+
+- **Enhancing Foundation Models in Transaction Understanding with LLM-based Sentence Embeddings**<br>
+  Xiran Fan, Zhimeng Jiang, Chin-Chia Michael Yeh, Yuzhong Chen, Yingtong Dou, Menghai Pan, Yan Zheng.<br>
+  EMNLP 2025.<br>
+  [Paper](https://aclanthology.org/2025.emnlp-industry.61.pdf)
+
+- **AnoLLM: Large Language Models for Tabular Anomaly Detection**<br>
+  Che-Ping Tsai, Ganyu Teng, Phillip Wallis, Wei Ding.<br>
+  ICLR 2025.<br>
+  [Paper](https://openreview.net/pdf?id=7VkHffT5X2)
+
+- **ethereum fraud detection via joint transaction language model and graph representation learning**<br>
+  Sun, Jianguo and Jia, Yifan and Wang, Yanbin and Tian, Ye and Zhang, Sheng.<br>
+  Information Fusion 2025.<br>
+  [Paper](https://arxiv.org/pdf/2512.01672) | [Code](https://github.com/lincozz/TLmGNN)
+
+- **GuARD: Effective Anomaly Detection through a Text-Rich and Graph-Informed Language Model**<br>
+  Pang, Yunhe and Chen, Bo and Zhang, Fanjin and Rao, Yanghui and Kharlamov, Evgeny and Tang, Jie.<br>
+  KDD 2025.<br>
+  [Paper](https://dl.acm.org/doi/epdf/10.1145/3711896.3736993)
+
+- **FLAG: Fraud Detection with LLM-enhanced Graph Neural Network**<br>
+  Yang, Chengdong and Liu, Hongrui and Wang, Daixin and Zhang, Zhiqiang and Yang, Cheng and Shi, Chuan.<br>
+  KDD 2025.<br>
+  [Paper](https://dl.acm.org/doi/epdf/10.1145/3711896.3737220)
+
+- **One transformer for all time series: representing and training with time-dependent heterogeneous tabular data**<br>
+  Luetto, Simone and Garuti, Fabrizio and Sangineto, Enver and Forni, Lorenzo and Cucchiara, Rita.<br>
+  Machine Learning 2025.<br>
+  [Paper](https://dl.acm.org/doi/10.1007/s10994-025-06778-1) | [Code](https://github.com/fabriziogaruti/UniTTab)
+
+- **Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection**<br>
+  Huang, Tairan and Wang, Yili and Li, Qiutong and He, Changlong and Gao, Jianliang.<br>
+  MM 2025.<br>
+  [Paper](https://dl.acm.org/doi/epdf/10.1145/3746027.3755245)  
+
+- **PANTHER: Generative Pretraining Beyond Language for Sequential User Behavior Modeling**<br>
+  Guilin_Li, Yun Zhang, Xiuyuan Chen, Chengqi Li, Bo Wang, Linghe Kong, Wenjia Wang, Weiran Huang, Matthias Hwai Yong Tan.<br>
+  NeurIPS 2025.<br>
+  [Paper](https://openreview.net/pdf?id=4FUdUFvvmp)
+
+### 2024
+
+- **What Does the Bot Say? Opportunities and Risks of Large Language Models in Social Media Bot Detection**<br>
+  Shangbin Feng, Herun Wan, Ningnan Wang, Zhaoxuan Tan, Minnan Luo, Yulia Tsvetkov.<br>
+  ACL 2024.<br>
+  [Paper](https://aclanthology.org/2024.acl-long.196.pdf)
+
+- **LMBot: Distilling Graph Knowledge into Language Model for Graph-less Deployment in Twitter Bot Detection**<br>
+  Cai, Zijian and Tan, Zhaoxuan and Lei, Zhenyu and Zhu, Zifeng and Wang, Hongrui and Zheng, Qinghua and Luo, Minnan.<br>
+  WSDM 2024.<br>
+  [Paper](https://dl.acm.org/doi/epdf/10.1145/3616855.3635843)
+
+### 2023
+
+- **Fighting Fire with Fire: The Dual Role of LLMs in Crafting and Detecting Elusive Disinformation**<br>
+  Jason Lucas, Adaku Uchendu, Michiharu Yamashita, Jooyoung Lee, Shaurya Rohatgi, Dongwon Lee.<br>
+  ACL 2023.<br>
+  [Paper](https://aclanthology.org/2023.emnlp-main.883.pdf) | [Code](https://github.com/mickeymst/F3)
+
+- **FATA-Trans: Field And Time-Aware Transformer for Sequential Tabular Data**<br>
+  Zhang, Dongyu and Wang, Liang and Dai, Xin and Jain, Shubham and Wang, Junpeng and Fan, Yujie and Yeh, Chin-Chia Michael and Zheng, Yan  and Zhuang, Zhongfang and Zhang, Wei.<br>
+  CIKM 2023.<br>
+  [Paper](https://dl.acm.org/doi/epdf/10.1145/3583780.3614879) | [Code](https://github.com/zdy93/FATA-Trans)
+
+- **Robust User Behavioral Sequence Representation via Multi-scale Stochastic Distribution Prediction**<br>
+  Fu, Chilin and Wu, Weichang and Zhang, Xiaolu and Hu, Jun and Wang, Jing and Zhou, Jun.<br>
+  CIKM 2023.<br>
+  [Paper](https://dl.acm.org/doi/epdf/10.1145/3583780.3614714)
 
 
 ## Graph-based Fraud Detection
