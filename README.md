@@ -2,7 +2,7 @@
 The Repository of Awesome Graph-based Financial Fraud Detection Papers and Codes. 
 This repository is the official sources of our survey papers:
 
-- **Graph Neural Networks for Financial Fraud Detection: A Review (Frontiers of Computer Science 2024)** [[Paper]](https://arxiv.org/abs/2411.05815) [[PDF]](2024-FCS-FraudSurvey.pdf) [[Cite]](https://github.com/AI4Risk/awesome-graph-based-fraud-detection#citing)
+- **Graph Neural Networks for Financial Fraud Detection: A Review (Frontiers of Computer Science 2025)** [[Paper]](https://link.springer.com/article/10.1007/s11704-024-40474-y) [[Cite]](https://github.com/AI4Risk/awesome-fraud-detection#citing)
   
 
 
