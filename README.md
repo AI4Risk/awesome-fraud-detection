@@ -1,15 +1,12 @@
 # Awesome Fraud Detection Papers and Codes
 The Repository of Awesome Graph-based Financial Fraud Detection Papers and Codes. 
-This repository is the official code of our survey paper:
+This repository is the official sources of our survey papers:
 
 - **Graph Neural Networks for Financial Fraud Detection: A Review (Frontiers of Computer Science 2024)** [[Paper]](https://arxiv.org/abs/2411.05815) [[PDF]](2024-FCS-FraudSurvey.pdf) [[Cite]](https://github.com/AI4Risk/awesome-graph-based-fraud-detection#citing)
   
-  *Dawei Cheng, Yao Zou, Sheng Xiang, Changjun Jiang* 
-  
-  ![](https://img.shields.io/badge/Survey%20Paper-A52A2A)
 
-In our literature review, we collect, classify, and discuss recent graph-based
-fraud detection papers. Below is the detailed classification and paper with code (if available).
+
+In our literature review, we collect, classify, and discuss recent fraud detection papers. Below is the detailed classification and paper with code (if available).
 
 
 ## Conference & Journal Article
@@ -449,11 +446,15 @@ For related collections on graph-based methods in other domains, please refer to
 If you find this literature review is useful for your research, please consider citing the following papers:
     
 
-    @article{cheng2024graph,
-        title={Graph Neural Networks for Financial Fraud Detection: A Review},
-        author={Cheng, Dawei and Zou, Yao and Xiang, Sheng and Jiang, Changjun},
-        journal={arXiv preprint arXiv:2411.05815},
-        year={2024}
+    @article{cheng2025graph,
+      title={Graph neural networks for financial fraud detection: a review},
+      author={Cheng, Dawei and Zou, Yao and Xiang, Sheng and Jiang, Changjun},
+      journal={Frontiers of Computer Science},
+      volume={19},
+      number={9},
+      pages={199609},
+      year={2025},
+      publisher={Springer}
     }
 
 
