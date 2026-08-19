@@ -92,16 +92,17 @@ This list aims to provide a comprehensive overview of research papers that utili
   [Paper](https://dl.acm.org/doi/epdf/10.1145/3770854.3783942)
 
 - **TransactionGPT: Toward Foundational Transaction Modeling**<br>
-  Yingtong Dou, Zhimeng Jiang, Tianyi Zhang, Mingzhi Hu, Zhichao Xu, Shubham Jain, Uday Singh Saini, Xiran Fan, Jiarui Sun, Menghai Pan, Junpeng Wang, Xin Dai, Liang Wang, Chin-Chia Michael Yeh, Yujie Fan, Yan Zheng, Vineeth Rakesh, Huiyuan Chen, Guanchu Wang, Mangesh Bendre, Zhongfang Zhuang, Xiaoting Li, Prince Aboagye, Vivian Lai, Minghua Xu, Hao Yang, Yiwei Cai, Mahashweta Das, Yuzhong Chen.<br>
+  Yingtong Dou, Zhimeng Jiang, Tianyi Zhang, Mingzhi Hu, Zhichao Xu, Huiyuan Chen, Shubham Jain, Uday Singh Saini, Xiran Fan, Jiarui Sun, Menghai Pan, Junpeng Wang, Chin-Chia Michael Yeh, Xin Dai, Yuzhong Chen.<br>
   KDD 2026.<br>
   [Paper](https://dl.acm.org/doi/10.1145/3770855.3818496)
 
 - **Think-like-LSTM: Memory-Augmented Large Language Models via Dynamic Fine-Tuning for Financial Risk Assessment**<br>
+  Siwei Zhang, Yun Xiong, Xi Chen, Yateng Tang, Zi'an Jia, Xuehao Zheng, Jiarong Xu.<br>
   KDD 2026.<br>
   [Paper](https://dl.acm.org/doi/10.1145/3770855.3818491)
 
 - **SHERLOCK: Towards Dynamic Knowledge Adaptation in LLM-enhanced E-commerce Risk Management**<br>
-  Nan Lu, Yurong Hu, Jiaquan Fang, Yan Liu, Rui Dong, Yiming Wang, Rui Lin, Shaoyi Xu.<br>
+  Nan Lu, Yurong Hu, Jiaquan Fang, Yan Liu, Rui Dong, Yiming Wang, Rui Lin, Shaoyi Xu.<br>
   KDD 2026.<br>
   [Paper](https://dl.acm.org/doi/10.1145/3770855.3818480)
 
