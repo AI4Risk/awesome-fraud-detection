@@ -81,6 +81,14 @@ This list aims to provide a comprehensive overview of research papers that utili
 
   *Jiasheng Wu, Xincheng Wang, Jie Yang, Dawei Cheng, Guang Yang, Bo Wang*
 
+- **Empowering Credit Risk Detection in Weixin Pay with Billion-Scale Deep Graph Learning (KDD)** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3770855.3818397)
+
+  *Xin Liu, Xiyuan Chen, Chenglong Wu, Xuan Zong, Jun Zhou, Dawei Cheng*
+
+- **Role Perceptual Augmented Temporal Graph Network for Related-party Transaction Detection (AAAI)** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/41240)
+
+  *Xin Liu, Yuanhang Yu, Peng Zhu, Dawei Cheng, Changjun Jiang*
+
 
 ### 2025
 
@@ -132,6 +140,10 @@ This list aims to provide a comprehensive overview of research papers that utili
 
   *Jie Yang, Rui Zhang, Ziyang Cheng, Dawei Cheng, Guang Yang, Bo Wang*
 
+- **Multi-Granularity Augmented Graph Learning for Spoofing Transaction Detection (WWW)** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3696410.3714521)
+
+  *Xin Liu, Haojun Rui, Dawei Cheng, Li Han, Zhongyun Zhou, Guoping Zhao*
+
 - **Innovative Graph-Based Analysis to Counter VAT Carousel and Credit Card Frauds (ICDM)** [[Paper]](https://ieeexplore.ieee.org/document/11416093)
 
   *Rafał Kozik, Piotr Gocał, Michał Choraś*
@@ -144,6 +156,13 @@ This list aims to provide a comprehensive overview of research papers that utili
 
   *Melike Yildiz Aktas, Mustafa Coskun, Chang-Tien Lu*
 
+- **Multi-Temporal Partitioned Graph Attention Networks for Financial Fraud Detection (TIFS)** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11153605)
+
+  *Mingjian Guang, Zhong Li, Chungang Yan, Yuhua Xu, Junli Wang, Dawei Cheng, Changjun Jiang*
+
+- **Homophily Edge Augment Graph Neural Network for High-Class Homophily Variance Learning (TPAMI)** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11278786)
+
+  *Minjian Guang, Rui Zhang, Dawei Cheng, Xiaoyang Wang, Xin Liu, Jie Yang, Yi Ouyang, Xian Wu, Yefeng Zheng*
 
 ### 2024
 
