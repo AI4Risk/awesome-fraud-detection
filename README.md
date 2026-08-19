@@ -80,12 +80,12 @@ This list aims to provide a comprehensive overview of research papers that utili
 - **ICAD-LLM: One-for-All Anomaly Detection via In-Context Learning with Large Language Models**<br>
   Wu, Zhongyuan and Wang, Jingyuan and Cheng, Zexuan and Zhou, Yilong and Wang, Weizhi and Pu, Juhua and Li, Chao and Ma, Changqing.<br>
   AAAI 2026.<br>
-  [Paper](https://arxiv.org/pdf/2512.01672)
+  [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38632)
 
 - **Understanding Structured Financial Data with LLMs: A Case Study on Fraud Detection**<br>
   Xuwei Tan, Yao Ma, Xueru Zhang.<br>
   ACL 2026.<br>
-  [Paper](https://arxiv.org/pdf/2602.14492)
+  [Paper](https://aclanthology.org/2026.acl-long.1071.pdf)
 
 - **LLM as an Algorithmist: Enhancing Anomaly Detectors via Programmatic Synthesis**<br>
   Hangting Ye, Jinmeng Li, He Zhao, Mingchen Zhuge, Dandan Guo, Yi Chang, Hongyuan Zha.<br>
@@ -147,7 +147,7 @@ This list aims to provide a comprehensive overview of research papers that utili
 - **ethereum fraud detection via joint transaction language model and graph representation learning**<br>
   Sun, Jianguo and Jia, Yifan and Wang, Yanbin and Tian, Ye and Zhang, Sheng.<br>
   Information Fusion 2025.<br>
-  [Paper](https://arxiv.org/pdf/2512.01672) | [Code](https://github.com/lincozz/TLmGNN)
+  [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525001472) | [Code](https://github.com/lincozz/TLmGNN)
 
 - **GuARD: Effective Anomaly Detection through a Text-Rich and Graph-Informed Language Model**<br>
   Pang, Yunhe and Chen, Bo and Zhang, Fanjin and Rao, Yanghui and Kharlamov, Evgeny and Tang, Jie.<br>
