@@ -20,6 +20,11 @@ This is a curated list of research papers focusing on financial fraud detection 
   - [AISTATS](http://www.auai.org/)
   - [UAI](http://www.auai.org/)
   - [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
+  - [ACL](https://aclanthology.org/venues/acl/)
+  - [Information Fusion](https://dl.acm.org/journal/infu)
+  - [MM](https://dl.acm.org/conference/mm)
+  - [EMNLP](https://aclanthology.org/venues/emnlp/)
+  - [Machine Learning](https://link.springer.com/journal/10994)
 - **Data Science**
   - [KDD](https://www.kdd.org/)
   - [TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)
@@ -29,11 +34,13 @@ This is a curated list of research papers focusing on financial fraud detection 
   - [SDM](https://www.siam.org/conferences/cm/conference/sdm20)
   - [WSDM](https://www.wsdm-conference.org/)
   - [CIKM](http://www.cikmconference.org/)
+  - [WSDM](https://dl.acm.org/conference/wsdm)
 - **Network Science**
   - [ASONAM](http://asonam.cpsc.ucalgary.ca/2019/)
   - [COMPLEX NETWORKS](https://www.complexnetworks.org/)
   - [NetSci](https://netscisociety.net/)
   - [TIFS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
+  - [CCS](https://dl.acm.org/conference/ccs)
 
 This list aims to provide a comprehensive overview of research papers that utilize Graph Neural Networks for financial fraud detection across various academic conferences and disciplines.
 
@@ -154,7 +161,7 @@ This list aims to provide a comprehensive overview of research papers that utili
 - **One transformer for all time series: representing and training with time-dependent heterogeneous tabular data**<br>
   Luetto, Simone and Garuti, Fabrizio and Sangineto, Enver and Forni, Lorenzo and Cucchiara, Rita.<br>
   Machine Learning 2025.<br>
-  [Paper](https://dl.acm.org/doi/10.1007/s10994-025-06778-1) | [Code](https://github.com/fabriziogaruti/UniTTab)
+  [Paper](https://link.springer.com/article/10.1007/s10994-025-06778-1) | [Code](https://github.com/fabriziogaruti/UniTTab)
 
 - **Can LLMs Find Fraudsters? Multi-level LLM Enhanced Graph Fraud Detection**<br>
   Huang, Tairan and Wang, Yili and Li, Qiutong and He, Changlong and Gao, Jianliang.<br>
