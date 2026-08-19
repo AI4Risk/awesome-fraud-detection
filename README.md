@@ -19,6 +19,7 @@ This is a curated list of research papers focusing on financial fraud detection 
   - [IJCAI](https://www.ijcai.org/)
   - [AISTATS](http://www.auai.org/)
   - [UAI](http://www.auai.org/)
+  - [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
 - **Data Science**
   - [KDD](https://www.kdd.org/)
   - [TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)
@@ -32,6 +33,7 @@ This is a curated list of research papers focusing on financial fraud detection 
   - [ASONAM](http://asonam.cpsc.ucalgary.ca/2019/)
   - [COMPLEX NETWORKS](https://www.complexnetworks.org/)
   - [NetSci](https://netscisociety.net/)
+  - [TIFS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
 
 This list aims to provide a comprehensive overview of research papers that utilize Graph Neural Networks for financial fraud detection across various academic conferences and disciplines.
 
