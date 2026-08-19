@@ -34,7 +34,6 @@ This is a curated list of research papers focusing on financial fraud detection 
   - [SDM](https://www.siam.org/conferences/cm/conference/sdm20)
   - [WSDM](https://www.wsdm-conference.org/)
   - [CIKM](http://www.cikmconference.org/)
-  - [WSDM](https://dl.acm.org/conference/wsdm)
 - **Network Science**
   - [ASONAM](http://asonam.cpsc.ucalgary.ca/2019/)
   - [COMPLEX NETWORKS](https://www.complexnetworks.org/)
