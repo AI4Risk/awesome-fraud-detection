@@ -208,6 +208,11 @@ This list aims to provide a comprehensive overview of research papers that utili
 
 ### 2026
 
+- **Population-Calibrated Graph Screening at 835-Million-Address Scale, with Label-Free Transfer to New Chains**<br>
+  Korolev, Yury.<br>
+  SSRN preprint 2026.<br>
+  [Paper](https://ssrn.com/abstract=7366202) [Code](https://github.com/ai-decisions/openeval)
+
 - **Defending Attacks on Anti-Fraud Model With Generative Graph Representations (TKDE)** [[Paper]](https://ieeexplore.ieee.org/document/11278752)
 
   *Jiasheng Wu, Xincheng Wang, Jie Yang, Dawei Cheng, Guang Yang, Bo Wang*
