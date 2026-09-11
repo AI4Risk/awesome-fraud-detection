@@ -1,17 +1,24 @@
-# Awesome Fraud Detection Papers and Codes
+# 🛡️ Awesome Fraud Detection Papers and Codes
+<p align="center">
+  <img src="https://img.shields.io/github/stars/AI4Risk/awesome-fraud-detection?style=flat-square&logo=github&label=Stars" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/forks/AI4Risk/awesome-fraud-detection?style=flat-square&logo=github&label=Forks" alt="GitHub Forks">
+  <img src="https://img.shields.io/github/license/AI4Risk/awesome-fraud-detection?style=flat-square&label=License" alt="License">
+  <img src="https://img.shields.io/github/last-commit/AI4Risk/awesome-fraud-detection?style=flat-square&logo=git&label=Last%20updated" alt="Last updated">
+  <img src="https://img.shields.io/badge/Pull%20Requests-Welcome-brightgreen?style=flat-square&logo=github" alt="Pull Requests Welcome">
+</p>
 The Repository of Awesome Financial Fraud Detection Papers and Codes. 
-This repository is the official sources of our survey papers:
+📌 This repository is the official sources of our survey papers:
 
-- **Graph Neural Networks for Financial Fraud Detection: A Review (Frontiers of Computer Science 2025)** [[Paper]](https://link.springer.com/article/10.1007/s11704-024-40474-y) [[Cite]](https://github.com/AI4Risk/awesome-fraud-detection#citing)
+- **🏆 Graph Neural Networks for Financial Fraud Detection: A Review (Frontiers of Computer Science 2025)** [[Paper]](https://link.springer.com/article/10.1007/s11704-024-40474-y) | [[Cite]](https://github.com/AI4Risk/awesome-fraud-detection#citing)
   
 
 
 In our literature review, we collect, classify, and discuss recent fraud detection papers. Below is the detailed classification and paper with code (if available).
 
 
-## Conference & Journal Article
+## 🎓 Conference & Journal Article
 This is a curated list of research papers focusing on financial fraud detection using Graph Neural Networks (GNNs) from various conferences and Journals:
-- **Artificial Intelligence**
+- **🧮 Artificial Intelligence**
   - [NeurIPS](https://nips.cc/)
   - [ICML](https://icml.cc/)
   - [ICLR](https://iclr.cc/)
@@ -25,7 +32,7 @@ This is a curated list of research papers focusing on financial fraud detection 
   - [MM](https://dl.acm.org/conference/mm)
   - [EMNLP](https://aclanthology.org/venues/emnlp/)
   - [Machine Learning](https://link.springer.com/journal/10994)
-- **Data Science**
+- **📊 Data Science**
   - [KDD](https://www.kdd.org/)
   - [TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69)
   - [WWW](https://www2019.thewebconf.org/)
@@ -34,7 +41,7 @@ This is a curated list of research papers focusing on financial fraud detection 
   - [SDM](https://www.siam.org/conferences/cm/conference/sdm20)
   - [WSDM](https://www.wsdm-conference.org/)
   - [CIKM](http://www.cikmconference.org/)
-- **Network Science**
+- **🕸️ Network Science**
   - [ASONAM](http://asonam.cpsc.ucalgary.ca/2019/)
   - [COMPLEX NETWORKS](https://www.complexnetworks.org/)
   - [NetSci](https://netscisociety.net/)
@@ -43,8 +50,15 @@ This is a curated list of research papers focusing on financial fraud detection 
 
 This list aims to provide a comprehensive overview of research papers that utilize Graph Neural Networks for financial fraud detection across various academic conferences and disciplines.
 
+## 🚀 Quick Links
 
-## Content
+[🤖 LLM-based Fraud Detection](#-llm-based-fraud-detection) ·
+[🕸️ Graph-based Fraud Detection](#️-graph-based-fraud-detection) ·
+[🔗 Related Topics](#-related-topics) ·
+[🤝 Contributing](#-contributing) ·
+[📝 Citation](#-citing)
+
+## 🧭 Content
 - **[LLM-based Fraud Detection](#llm-based-fraud-detection)**
   - [2026](#2026)
   - [2025](#2025)
@@ -63,9 +77,9 @@ This list aims to provide a comprehensive overview of research papers that utili
   - [2017](#2017)
 
 
-## LLM-based Fraud Detection
+## 🤖 LLM-based Fraud Detection
 
-### 2026
+### 🗓️ 2026
 
 - **DGP: a dual-granularity prompting framework for fraud detection with graph-enhanced LLMs**<br>
   Li, Yuan and Hu, Jun and Hooi, Bryan and He, Bingsheng and Chen, Cheng.<br>
@@ -117,7 +131,7 @@ This list aims to provide a comprehensive overview of research papers that utili
   WWW 2026.<br>
   [Paper](https://dl.acm.org/doi/epdf/10.1145/3774904.3792832)
 
-### 2025
+### 🗓️ 2025
 
 - **LLM-Enhanced Self-Evolving Reinforcement Learning for Multi-Step E-Commerce Payment Fraud Risk Detection**<br>
   Bo Qu, Zhurong Wang, Daisuke Yagi, Zach Xu, Yang Zhao, Yinan Shan, Frank Zahradnik.<br>
@@ -174,7 +188,7 @@ This list aims to provide a comprehensive overview of research papers that utili
   NeurIPS 2025.<br>
   [Paper](https://openreview.net/pdf?id=4FUdUFvvmp)
 
-### 2024
+### 🗓️ 2024
 
 - **What Does the Bot Say? Opportunities and Risks of Large Language Models in Social Media Bot Detection**<br>
   Shangbin Feng, Herun Wan, Ningnan Wang, Zhaoxuan Tan, Minnan Luo, Yulia Tsvetkov.<br>
@@ -186,7 +200,7 @@ This list aims to provide a comprehensive overview of research papers that utili
   WSDM 2024.<br>
   [Paper](https://dl.acm.org/doi/epdf/10.1145/3616855.3635843)
 
-### 2023
+### 🗓️ 2023
 
 - **Fighting Fire with Fire: The Dual Role of LLMs in Crafting and Detecting Elusive Disinformation**<br>
   Jason Lucas, Adaku Uchendu, Michiharu Yamashita, Jooyoung Lee, Shaurya Rohatgi, Dongwon Lee.<br>
@@ -204,9 +218,9 @@ This list aims to provide a comprehensive overview of research papers that utili
   [Paper](https://dl.acm.org/doi/epdf/10.1145/3583780.3614714)
 
 
-## Graph-based Fraud Detection
+## 🕸️ Graph-based Fraud Detection
 
-### 2026
+### 🗓️ 2026
 
 - **Defending Attacks on Anti-Fraud Model With Generative Graph Representations (TKDE)** [[Paper]](https://ieeexplore.ieee.org/document/11278752)
 
@@ -221,7 +235,7 @@ This list aims to provide a comprehensive overview of research papers that utili
   *Xin Liu, Yuanhang Yu, Peng Zhu, Dawei Cheng, Changjun Jiang*
 
 
-### 2025
+### 🗓️ 2025
 
 - **Global Attribute-Association Pattern Aggregation for Graph Fraud Detection (AAAI)** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33264) [[Code]](https://github.com/AtwoodDuan/GAAP)
 
@@ -295,7 +309,7 @@ This list aims to provide a comprehensive overview of research papers that utili
 
   *Minjian Guang, Rui Zhang, Dawei Cheng, Xiaoyang Wang, Xin Liu, Jie Yang, Yi Ouyang, Xian Wu, Yefeng Zheng*
 
-### 2024
+### 🗓️ 2024
 
 - **Revisiting Graph-Based Fraud Detection in Sight of Heterophily and Spectrum (AAAI)** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28773) [[Code]](https://github.com/Sunxkissed/SEC-GFD)
 
@@ -384,7 +398,7 @@ This list aims to provide a comprehensive overview of research papers that utili
   *Jinghui Zhang, Zhengjia Xu, Dingyang Lv, Zhan Shi, Dian Shen, Jiahui Jin, Fang Dong*
 
 
-### 2023
+### 🗓️ 2023
 
 - **Semi-supervised Credit Card Fraud Detection via Attribute-driven Graph Representation (AAAI)** [[Paper]](https://www.xiangshengcloud.top/publication/semi-supervised-credit-card-fraud-detection-via-attribute-driven-graph-representation/Sheng-AAAI2023.pdf) [[Code]](https://github.com/finint/antifraud)
 
@@ -433,7 +447,7 @@ This list aims to provide a comprehensive overview of research papers that utili
   *Yuchen Wang, Jinghui Zhang, Zhengjie Huang, Weibin Li, Shikun Feng, Ziheng Ma, Yu Sun, Dianhai Yu, Fang Dong, Jiahui Jin, Beilun Wang, Junzhou Luo*
 
 
-###  2022
+###  🗓️ 2022
 
 - **Explainable Graph-based Fraud Detection via Neural Meta-graph Search (CIKM)** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557598)
   
@@ -479,7 +493,7 @@ This list aims to provide a comprehensive overview of research papers that utili
   ![](https://img.shields.io/badge/Heterogeneity%20Detection-A52A2A) ![](https://img.shields.io/badge/Homogeneity%20Detection-A52A2A) 
 
 
-### 2021
+### 🗓️ 2021
 
 - **CaT-GNN: Enhancing Credit Card Fraud Detection with Causal Time Graph Neural Networks (TKDE)** [[Paper]](https://arxiv.dosf.top/abs/2402.14708)
   
@@ -514,7 +528,7 @@ This list aims to provide a comprehensive overview of research papers that utili
   *Y Liu, S Pan, YG Wang, F Xiong, L Wang, Q Chen, VCS Lee*
 
 
-### 2020
+### 🗓️ 2020
 
 - **Graph Neural Network for Fraud Detection via Spatial-Temporal Attention (TKDE)** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9204584) [[Code]](https://github.com/finint/antifraud)
 
@@ -545,7 +559,7 @@ This list aims to provide a comprehensive overview of research papers that utili
   *Xiangfeng Li, Shenghua Liu, Zifeng Li, Xiaotian Han, Chuan Shi , Bryan Hooi, He Huang, Xueqi Cheng*
 
 
-### 2019
+### 🗓️ 2019
 
 - **Uncovering insurance fraud conspiracy with network learning (SIGIR)** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3331184.3331372)
 
@@ -564,7 +578,7 @@ This list aims to provide a comprehensive overview of research papers that utili
   *Lv, Le and Cheng, Jianbo and Peng, Nanbo and Fan, Min and Zhao, Dongbin, Zhang, Jianhong*
 
 
-### 2018
+### 🗓️ 2018
 
 - **Scalable Graph Learning for Anti-Money Laundering: A First Look (ArXiv)** [[Paper]](https://www.semanticscholar.org/paper/Scalable-Graph-Learning-for-Anti-Money-Laundering%3A-Weber-Chen/435a772dc696de13a185e33e80dd7fe71b25dcf0)
 
@@ -574,14 +588,27 @@ This list aims to provide a comprehensive overview of research papers that utili
   *Ziqi Liu, Chaochao Chen, Xinxing Yang, Jun Zhou, Xiaolong Li, and Le Song*
 
 
-### 2017
+### 🗓️ 2017
 
 - **Graph Mining assisted Semi-supervised Learning for Fraudulent Cash-out Detection (KDD)** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3110025.3110099)
   
   *Yuan Li, Yiheng Sun, and Noshir Contractor*
+  
+## 🤝 Contributing
+
+Contributions are welcome. Please open an issue or pull request to add papers, code, datasets, or corrections.
+
+For each new paper, please provide:
+
+- Title
+- Year and venue
+- Research category
+- Paper link
+- Code link, if available
+- Dataset link, if available
 
 
-### Related Topics
+### 🔗 Related Topics
 
 For related collections on graph-based methods in other domains, please refer to:
 
@@ -592,7 +619,7 @@ For related collections on graph-based methods in other domains, please refer to
 - [Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
 
 
-## Citing
+## 📝 Citing
 If you find this literature review is useful for your research, please consider citing the following papers:
     
 
@@ -610,7 +637,7 @@ If you find this literature review is useful for your research, please consider 
 
 ## All Thanks to Our Contributors :
 
-<a href="https://github.com/AI4Risk/awesome-graph-based-fraud-detection/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=AI4Risk/awesome-graph-based-fraud-detection" />
+<a href="https://github.com/AI4Risk/awesome-fraud-detection/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AI4Risk/awesome-fraud-detection" />
 </a>
 
