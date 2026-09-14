@@ -19,14 +19,16 @@ In our literature review, we collect, classify, and discuss recent fraud detecti
 
 [🤖 LLM-based Fraud Detection](#-llm-based-fraud-detection) ·
 [🕸️ Graph-based Fraud Detection](#️-graph-based-fraud-detection) ·
+<br>
+[🎓 Conference & Journal Article](#-conference--journal-article) ·
 [🔗 Related Topics](#-related-topics) ·
 [🤝 Contributing](#-contributing) ·
 [📝 Citation](#-citing)
 
 ## 🧭 Content
 
-- **[LLM-based Fraud Detection](#llm-based-fraud-detection)** — [2026](#2026) · [2025](#2025) · [2024](#2024) · [2023](#2023)
-- **[Graph-based Fraud Detection](#graph-based-fraud-detection)** — [2026](#2026-1) · [2025](#2025-1) · [2024](#2024-1) · [2023](#2023-1) · [2022](#2022) · [2021](#2021) · [2020](#2020) · [2019](#2019) · [2018](#2018) · [2017](#2017)
+- **[LLM-based Fraud Detection](#llm-based-fraud-detection)** : [2026](#2026) | [2025](#2025) | [2024](#2024) | [2023](#2023)
+- **[Graph-based Fraud Detection](#graph-based-fraud-detection)** : [2026](#2026-1) | [2025](#2025-1) | [2024](#2024-1) | [2023](#2023-1) | [2022](#2022) | [2021](#2021)  [2020](#2020) | [2019](#2019) | [2018](#2018) | [2017](#2017)
 
 
 ## 🤖 LLM-based Fraud Detection
