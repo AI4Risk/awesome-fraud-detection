@@ -70,17 +70,22 @@ In our literature review, we collect, classify, and discuss recent fraud detecti
 - **TransactionGPT: Toward Foundational Transaction Modeling**<br>
   Yingtong Dou, Zhimeng Jiang, Tianyi Zhang, Mingzhi Hu, Zhichao Xu, Huiyuan Chen, Shubham Jain, Uday Singh Saini, Xiran Fan, Jiarui Sun, Menghai Pan, Junpeng Wang, Chin-Chia Michael Yeh, Xin Dai, Yuzhong Chen.<br>
   KDD 2026.<br>
-  [Paper](https://dl.acm.org/doi/10.1145/3770855.3818496)
+  [Paper](https://dl.acm.org/doi/epdf/10.1145/3770855.3818496)
 
 - **Think-like-LSTM: Memory-Augmented Large Language Models via Dynamic Fine-Tuning for Financial Risk Assessment**<br>
   Siwei Zhang, Yun Xiong, Xi Chen, Yateng Tang, Zi'an Jia, Xuehao Zheng, Jiarong Xu.<br>
   KDD 2026.<br>
-  [Paper](https://dl.acm.org/doi/10.1145/3770855.3818491)
+  [Paper](https://dl.acm.org/doi/epdf/10.1145/3770855.3818491)
 
 - **SHERLOCK: Towards Dynamic Knowledge Adaptation in LLM-enhanced E-commerce Risk Management**<br>
   Nan Lu, Yurong Hu, Jiaquan Fang, Yan Liu, Rui Dong, Yiming Wang, Rui Lin, Shaoyi Xu.<br>
   KDD 2026.<br>
-  [Paper](https://dl.acm.org/doi/10.1145/3770855.3818480)
+  [Paper](https://dl.acm.org/doi/epdf/10.1145/3770855.3818480)
+
+- **Query as Anchor: Scenario-Adaptive User Representation via Large Language Model**<br>
+  Jiahao Yuan, Yike Xu, Jinyong Wen, Baokun Wang, Ziyi Gao, Xiaotong Lin, Yun Liu, Xing Fu, Yu Cheng, Yongchao Liu, Weiqiang Wang, Zhongle Xie.<br>
+  KDD 2026.<br>
+  [Paper](https://dl.acm.org/doi/epdf/10.1145/3770855.3818464)
 
 - **FRiskGPT: A Generative Foundation Model for Financial Risk Detection**<br>
   Zhang, Zhongjian and Zhang, Mengmei and Xu, Dehua and Shi, Rongjun and Liu, Jianfeng and Meng, Fuli and Xu, Huajian and Wang, Xiao and Wang, Ruijia and Chen, Junze and Tang, Minwei and Shi, Chuan.<br>
