@@ -86,7 +86,7 @@ In our literature review, we collect, classify, and discuss recent fraud detecti
 - **Query as Anchor: Scenario-Adaptive User Representation via Large Language Model**<br>
   Jiahao Yuan, Yike Xu, Jinyong Wen, Baokun Wang, Ziyi Gao, Xiaotong Lin, Yun Liu, Xing Fu, Yu Cheng, Yongchao Liu, Weiqiang Wang, Zhongle Xie.<br>
   KDD 2026.<br>
-  [Paper](https://dl.acm.org/doi/epdf/10.1145/3770855.3818464)
+  [Paper](https://dl.acm.org/doi/epdf/10.1145/3770855.3818464) | [Code](https://github.com/JhCircle/Q-Anchor)
 
 - **FRiskGPT: A Generative Foundation Model for Financial Risk Detection**<br>
   Zhang, Zhongjian and Zhang, Mengmei and Xu, Dehua and Shi, Rongjun and Liu, Jianfeng and Meng, Fuli and Xu, Huajian and Wang, Xiao and Wang, Ruijia and Chen, Junze and Tang, Minwei and Shi, Chuan.<br>
