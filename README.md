@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/Pull%20Requests-Welcome-brightgreen?style=flat-square&logo=github" alt="Pull Requests Welcome">
 </p>
 The Repository of Awesome Financial Fraud Detection Papers and Codes. 
+
 📌 This repository is the official sources of our survey papers:
 
 - **🏆 Graph Neural Networks for Financial Fraud Detection: A Review (Frontiers of Computer Science 2025)** [[Paper]](https://link.springer.com/article/10.1007/s11704-024-40474-y) | [[Cite]](https://github.com/AI4Risk/awesome-fraud-detection#citing)
