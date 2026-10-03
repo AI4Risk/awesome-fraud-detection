@@ -188,6 +188,11 @@ In our literature review, we collect, classify, and discuss recent fraud detecti
 <a id="graph-2026"></a>
 ### 🗓️ 2026
 
+- **Population-Calibrated Graph Screening at 835-Million-Address Scale, with Label-Free Transfer to New Chains**<br>
+  Korolev, Yury.<br>
+  SSRN preprint 2026.<br>
+  [Paper](https://ssrn.com/abstract=7366202) [Code](https://github.com/ai-decisions/openeval)
+
 - **Defending Attacks on Anti-Fraud Model With Generative Graph Representations (TKDE)** [[Paper]](https://ieeexplore.ieee.org/document/11278752)
 
   *Jiasheng Wu, Xincheng Wang, Jie Yang, Dawei Cheng, Guang Yang, Bo Wang*
