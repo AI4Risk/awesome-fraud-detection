@@ -200,6 +200,10 @@ In our literature review, we collect, classify, and discuss recent fraud detecti
 
   *Xin Liu, Yuanhang Yu, Peng Zhu, Dawei Cheng, Changjun Jiang*
 
+- **Deep Reinforcement Learning Enhanced Semi-supervised Graph Neural Network for Credit Card Fraud Detection (IJCAI)** [[Paper]](https://ijcai.org/proceedings/2026/801)
+
+  *Huilin He, Kun Zhu, Zewen Hu, Jie Wang, Dawei Cheng*
+
 <a id="graph-2025"></a>
 ### 🗓️ 2025
 
