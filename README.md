@@ -13,8 +13,8 @@ A growing collection of research papers, code, and datasets for fraud detection.
 
 ## 🎓 Our Survey Papers
 
-- **📑 Graph Neural Networks for Financial Fraud Detection: A Review (Frontiers of Computer Science 2025)** [[Paper]](https://link.springer.com/article/10.1007/s11704-024-40474-y) | [[Cite]](#citing)
-- **📜 Large Language Models and Foundation Models for Fraud Detection** *(Paper link coming soon)*
+- **🏆 Graph Neural Networks for Financial Fraud Detection: A Review (Frontiers of Computer Science 2025)** [[Paper]](https://link.springer.com/article/10.1007/s11704-024-40474-y) | [[Cite]](#citing)
+- **📑 Large Language Models and Foundation Models for Fraud Detection** *(Paper link coming soon)*
 
 ## 🧭 Content
 
