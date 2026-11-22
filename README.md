@@ -623,6 +623,7 @@ A growing collection of research papers, code, and datasets for fraud detection.
 - CCT: https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions
 - SAML-D: https://www.kaggle.com/datasets/berkanoztas/synthetic-transaction-monitoring-dataset-aml
 - PaySim: https://www.kaggle.com/datasets/ealaxi/paysim1?utm_source=chatgpt.com
+- synthetic cfo: https://huggingface.co/datasets/syntheticcfo/synthetic-cfo-sample
 
 *Real-data-grounded Datasets*
 
